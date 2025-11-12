@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Ilib/cimpl/include",
+      "-o",
+      "pgps_listener",
+      "src/main.c"
+    ],
+    "directory": "/home/mmckenna/Dev/c/pgps_listener",
+    "file": "/home/mmckenna/Dev/c/pgps_listener/src/main.c",
+    "output": "/home/mmckenna/Dev/c/pgps_listener/pgps_listener"
+  }
+]
